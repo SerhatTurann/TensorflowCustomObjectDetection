@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>water_lily_1.png</filename>
+	<path>C:\Users\SerhatTuran\Desktop\flowers_detection\flowers_dataset\yolo_dataset\images\water_lily_1.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>water_lily</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>346</ymin>
+			<xmax>274</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+</annotation>
